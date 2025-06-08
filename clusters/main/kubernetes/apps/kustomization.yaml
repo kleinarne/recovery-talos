@@ -4,3 +4,4 @@ resources:
   - kubernetes-dashboard/ks.yaml
   - minio/ks.yaml
   - external-services
+  - librespeed/ks.yaml
